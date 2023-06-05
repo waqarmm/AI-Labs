@@ -1,0 +1,28 @@
+Geoffery Hinonton
+
+ImageNet and Alexnet
+IBM Watson
+
+data mapping :
+Traning set: consists of samples and target.
+Model is a mathematical function
+
+Training Constraints are defined by our application.
+brouteforce
+parameters/variables are defined in certain ways
+
+
+IBM Watson. 2nd June
+
+
+Sentiments Analysis / Recommendations Engine
+It has builtin packages like chatbots, sentiment analysis , recommendation
+
+
+1 chabots
+2 IBM Watson discovery
+3 Speech to Text
+4 Text to Speech
+5 Language Translator
+6 Knowledge Studio contains different datasets
+7 Natural Language classifier 
