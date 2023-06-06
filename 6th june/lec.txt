@@ -1,0 +1,10 @@
+Trainging constraints 
+salmon and rawo fish example
+
+Confusion Matrix
+True Positive: 
+False Positive: Doesn't exists in actual but system shows it.
+
+PRecision : % of accurancy of actual True value.
+Recall: 
+Regression Methods
